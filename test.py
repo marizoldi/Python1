@@ -1,0 +1,1 @@
+usr_input = input("Give me numbers separated by space: ")
